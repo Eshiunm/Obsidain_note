@@ -1,2 +1,0 @@
-[[Boostrap]]
-[[tailwind]]
