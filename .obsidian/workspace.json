@@ -1,0 +1,201 @@
+{
+  "main": {
+    "id": "6f7cd284c90049a7",
+    "type": "split",
+    "children": [
+      {
+        "id": "8012d336a238cea0",
+        "type": "tabs",
+        "dimension": 44.38943894389439,
+        "children": [
+          {
+            "id": "8ea14900db8e6485",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Front-end 索引.md",
+                "mode": "source",
+                "source": false
+              }
+            },
+            "group": "04cfb2887c164283"
+          }
+        ]
+      },
+      {
+        "id": "654cb5f9bca5bfea",
+        "type": "tabs",
+        "dimension": 55.61056105610561,
+        "children": [
+          {
+            "id": "1d962cff59c1e777",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Front-end 索引.md",
+                "mode": "source",
+                "source": false
+              }
+            },
+            "group": "04cfb2887c164283"
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e3af4b482ead9cbe",
+    "type": "split",
+    "children": [
+      {
+        "id": "4a5df298aa1b700f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0a66fc39848cef7d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTime"
+              }
+            }
+          },
+          {
+            "id": "e31949d860243c7d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "19f01dc52f602e6e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 238.5
+  },
+  "right": {
+    "id": "685a971d74e3ac97",
+    "type": "split",
+    "children": [
+      {
+        "id": "7a98a2a64fbed2d9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f81e9ba83e6e7db9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Front-end 索引.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "74710bea522602aa",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Front-end 索引.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5c940eb93a7e300b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a1d16069f78bb32f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Front-end 索引.md"
+              }
+            }
+          },
+          {
+            "id": "06a4a6a79e5e7e54",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:開啟快速切換": false,
+      "graph:查看關聯圖": false,
+      "canvas:建立新畫布": false,
+      "daily-notes:開啟今天的每日筆記": false,
+      "templates:插入模板": false,
+      "command-palette:開啟命令面板": false
+    }
+  },
+  "active": "8ea14900db8e6485",
+  "lastOpenFiles": [
+    "My Note",
+    "Front-end 索引.md",
+    "未命名.canvas",
+    "2024-01-02.md",
+    "CSS.md",
+    "Obsidian Markdown 語法大全/語法索引.md",
+    "Obsidian Markdown 語法大全/語法/待辦清單.md",
+    "Obsidian Markdown 語法大全/Obsidian 使用教學.md",
+    "Obsidian Markdown 語法大全/語法",
+    "Obsidian Markdown 語法大全/語法/字體大小.md",
+    "Obsidian Markdown 語法大全/語法/程式碼區塊 & 文字區塊.md",
+    "Obsidian Markdown 語法大全/語法/分隔線.md",
+    "未命名.md",
+    "Obsidian Markdown 語法大全/語法/引文.md",
+    "Obsidian Markdown 語法大全/語法/標號.md",
+    "Obsidian Markdown 語法大全/語法/字體樣式.md",
+    "Markdown 語法大全.md",
+    "Obsidian Markdown 語法大全",
+    "未命名 1.md"
+  ]
+}
