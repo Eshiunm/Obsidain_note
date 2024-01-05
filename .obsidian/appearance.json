@@ -1,4 +1,7 @@
 {
   "accentColor": "",
-  "theme": "moonstone"
+  "theme": "moonstone",
+  "baseFontSize": 22,
+  "textFontFamily": "標楷體",
+  "interfaceFontFamily": "微軟正黑體"
 }
