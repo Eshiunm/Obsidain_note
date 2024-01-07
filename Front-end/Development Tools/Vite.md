@@ -6,6 +6,6 @@
 
 - 接下來下載六角學院提供的[示範檔](https://github.com/hexschool/web-layout-training-vite)，或是下載下面的公版也可以
 ![[Vite 公版-01 (執行 npm stlall 後即可開發專案).zip]] 
-- 下載完後，在終端機輸入`npm install(or npm i)`，有出現紅色框框的資料夾，表示安裝完成![[螢幕擷取畫面 2024-01-05 105922.png]] 
+- 下載完後，在終端機輸入`npm install(or npm i)`，有出現 `node_module` 表示安裝成功
 
 

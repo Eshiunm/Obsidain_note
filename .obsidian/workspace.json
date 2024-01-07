@@ -4,20 +4,40 @@
     "type": "split",
     "children": [
       {
-        "id": "35167659cb16bf89",
+        "id": "dac2c57cecb8dab1",
         "type": "tabs",
         "children": [
           {
-            "id": "75aea84e17b887c8",
+            "id": "c1961afbe3d809bb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Front-end/Development Tools/Vite.md",
+                "file": "TED x Talks/How to learn any language in six months - Chris Lonsdale.md",
                 "mode": "source",
                 "source": false
               }
-            }
+            },
+            "group": "7112330c20665601"
+          }
+        ]
+      },
+      {
+        "id": "2680be4f04d37e49",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4711a03efd3e9efe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TED x Talks/How to learn any language in six months - Chris Lonsdale.md",
+                "mode": "preview",
+                "source": false
+              }
+            },
+            "group": "7112330c20665601"
           }
         ]
       }
@@ -73,11 +93,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 288.5
   },
   "right": {
     "id": "685a971d74e3ac97",
@@ -93,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Front-end/Development Tools/Vite.md",
+                "file": "TED x Talks/How to learn any language in six months - Chris Lonsdale.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Front-end/Development Tools/Vite.md",
+                "file": "TED x Talks/How to learn any language in six months - Chris Lonsdale.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Front-end/Development Tools/Vite.md"
+                "file": "TED x Talks/How to learn any language in six months - Chris Lonsdale.md"
               }
             }
           }
@@ -155,19 +176,31 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "75aea84e17b887c8",
+  "active": "3fd08fa47ceb9fc4",
   "lastOpenFiles": [
+    "Obsidian Markdown 語法大全/語法/表格.md",
+    "TED x Talks/How to learn any language in six months - Chris Lonsdale.md",
+    "截圖存放區/Pasted image 20240107230949.png",
+    "Obsidian Markdown 語法大全/語法/程式碼區塊 & 文字區塊.md",
+    "Obsidian Markdown 語法大全/語法/分隔線.md",
+    "Obsidian Markdown 語法大全/語法/引文.md",
+    "Obsidian Markdown 語法大全/語法/標號.md",
+    "Obsidian Markdown 語法大全/語法/字體樣式.md",
+    "Obsidian Markdown 語法大全/語法/字體大小.md",
+    "待辦清單.md",
+    "TED x Talks",
+    "Obsidian Markdown 語法大全/Obsidian 使用教學.md",
+    "敏捷開發.md",
+    "Obsidian Markdown 語法大全/語法/待辦清單.md",
+    "Front-end/Development Tools/Vite.md",
+    "截圖存放區",
+    "截圖存放區/Pasted image 20240104223339.png",
+    "螢幕擷取畫面 2024-01-05 105922.png",
     "Front-end/Front-end 索引.md",
     "Front-end/Javascript/Javascript Index.md",
-    "Front-end/Development Tools/Vite.md",
-    "螢幕擷取畫面 2024-01-05 105922.png",
     "Vite 公版-01 (執行 npm stlall 後即可開發專案).zip",
-    "Pasted image 20240104223339.png",
-    "Obsidian Markdown 語法大全/Obsidian 使用教學.md",
     "Obsidian Markdown 語法大全/語法索引.md",
-    "Obsidian Markdown 語法大全/語法/字體樣式.md",
     "Front-end/Development Tools/未命名.md",
-    "未命名.md",
     "Front-end/Development Tools",
     "Front-end/CSS/CSS Index.md",
     "Front-end/Javascript/AJAX.md",
@@ -179,23 +212,12 @@
     "Front-end/Javascript/Axios/Axios ( AJAX ).md",
     "Front-end/Javascript/C3.js",
     "Front-end/Javascript/Axios/未命名.md",
-    "Obsidian Markdown 語法大全/語法/引文.md",
-    "Obsidian Markdown 語法大全/語法/標號.md",
-    "Obsidian Markdown 語法大全/語法/字體大小.md",
     "Front-end/Javascript/Axios",
     "Front-end/Javascript/Axios.md",
     "Front-end/HTML/HTML Index.md",
-    "CSS.md",
     "Front-end/Javascript",
     "Front-end/CSS",
     "Front-end/HTML",
-    "Front-end",
-    "Obsidian Markdown 語法大全/語法/待辦清單.md",
-    "My Note",
-    "Obsidian Markdown 語法大全/語法",
-    "Obsidian Markdown 語法大全/語法/程式碼區塊 & 文字區塊.md",
-    "Obsidian Markdown 語法大全/語法/分隔線.md",
-    "Markdown 語法大全.md",
-    "未命名 1.md"
+    "Front-end"
   ]
 }
